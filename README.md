@@ -1,7 +1,11 @@
 ### Hi there 👋
 ## 联系方式
-[邮件](mailto:i@1812z.top)
+[邮件](mailto:i@1812z.top)  
 Bilibili @1812z
+
+## 我的~~娱乐~~开发设备
+[![我的~~娱乐~~开发设备](https://device-svg-generator.2023158207.workers.dev/devices-svg?api=https://api-usage.1812z.top/api/devices)]()
+
 ## 我的Gayhub
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=1812z)]()
 
