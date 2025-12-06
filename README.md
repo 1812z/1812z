@@ -1,7 +1,8 @@
 ### Hi there 👋
 ## 联系方式
 [邮件](mailto:i@1812z.top)  
-Bilibili @1812z
+Bilibili @1812z  
+交流反馈QQ群: 1045114341  
 
 ## 我的~~娱乐~~开发设备
 [![我的~~娱乐~~开发设备](https://device-svg-generator.2023158207.workers.dev/devices-svg?api=https://api-usage.1812z.top/api/devices)]()
